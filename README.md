@@ -189,4 +189,4 @@ revenue / ad_spend
 ## Final Summary
 
 TikTok delivers the best efficiency and return, while Facebook underperforms.  
-The biggest opportunity lies in improving the top of the funnel, particularl
+The biggest opportunity lies in improving the top of the funnel, particularly CTR.
